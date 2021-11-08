@@ -1,5 +1,5 @@
-# BGN21-Oct
-## Poogle Web App |  BGN Hackathon Autumn  2021 | Team Pineapple
+# BGN Hackathon Autumn  2021
+## Poogle Web App
 
 
 
