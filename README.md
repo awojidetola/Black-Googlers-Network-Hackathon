@@ -14,5 +14,5 @@ Poogle is a Web App that creates a Collaborative Platform for Project Nooglers b
 * A swipe feature for Users to easily indicate interest in project
 * My Projects page containing Projects Owned, Joined and Liked by User.
 
-**Check here for a demo of the web app:  https://youtu.be/HC6VgoqppIY
+__Check here for a demo of the web app:  https://youtu.be/HC6VgoqppIY__
 
