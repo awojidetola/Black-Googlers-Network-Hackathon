@@ -12,6 +12,8 @@ Poogle is a Web App that creates a Collaborative Platform for Project Nooglers b
 * A swipe feature for Users to easily indicate interest in project
 * A My Projects page containing Projects Owned, Joined and Liked by User.
 
+
+
 | Platform | Languages | Hosting |
 | --- | --- | --- |
 | Desktop & Mobile | React, Typescript, JavaScript | Firebase, Firestore |
